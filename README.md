@@ -15,5 +15,5 @@ This project demonstrates the use of GitHub Actions for continuous deployment. E
 
 # URL
 
-View the website at: https://.github.io/gh-deployment-workflow/
+View the website at: https://RevanthGoli.github.io/gh-deployment-workflow/
 
